@@ -26,6 +26,6 @@ public enum DuongXinyuEnum {
     }
 
     public String getCatchPhrase(){
-        return "Hey, my name is " + getName() + "!";
+        return "Hey, my name is " + name + "!";
     }
 }
